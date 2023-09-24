@@ -729,5 +729,5 @@ Tools_File=$(command -v tools)
 AutoUpdate_File=$(command -v autoupdate)
 
 [[ ! -d ${Tools_Cache} ]] && mkdir -p ${Tools_Cache}
-Github_Raw="https://ghproxy.com/https://raw.githubusercontent.com/Hyy2001X/AutoBuild-Actions/master"
+Github_Raw="https://ghproxy.com/https://raw.githubusercontent.com/Lstheart/AutoBuild-Actions/master"
 AutoBuild_Tools_UI
